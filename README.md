@@ -1,8 +1,6 @@
 <h1 align="center">Eu sou Emanuele 👋</h1>
 <h3 align="center">Apaixonada por criar experiências interativas e emocionantes para o usuário.</h3>
 
-- 🔭 No momento estou trabalhando como Assistente de Web Desing
-
 - 🌱 Estudando **React e outros frameworks**
 
 - 📫 Meu email **emanuelecanolla@hotmail.com**
